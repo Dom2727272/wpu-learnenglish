@@ -3,6 +3,9 @@ RENCANA BELAJAR WPU
   + Buku
   + Artikel
   + surat
+    ^ koran
 - Write
 - Listening
+  ^ podcast
 - Watching video
+- watching youtube
